@@ -8,5 +8,5 @@ This project was developed as part of a Computer Programming module assignment. 
 - File-based data storage
 - Basic GUI interface
 
-## Technologies Used
+## Language Used
 - Python
