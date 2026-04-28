@@ -7,6 +7,3 @@ This project was developed as part of a Computer Programming module assignment. 
 - Store doctor information
 - File-based data storage
 - Basic GUI interface
-
-## Language Used
-- Python
